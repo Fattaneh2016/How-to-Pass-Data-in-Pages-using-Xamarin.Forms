@@ -1,0 +1,7 @@
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/PassDataXamarinForms/PassDataXamarinForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/PassDataXamarinForms/PassDataXamarinForms/bin/Debug/PassDataXamarinForms.dll.mdb
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/PassDataXamarinForms/PassDataXamarinForms/bin/Debug/PassDataXamarinForms.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/PassDataXamarinForms/PassDataXamarinForms/obj/Debug/PassDataXamarinForms.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/PassDataXamarinForms/PassDataXamarinForms/obj/Debug/PassDataXamarinForms.dll.mdb
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/PassDataXamarinForms/PassDataXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/PassDataXamarinForms/PassDataXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll

@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="iOS/PassDataXamarinForms.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PassDataXamarinForms/SecondPage.cs">
+    <Files>
+      <File FileName="PassDataXamarinForms/PassDataXamarinForms.cs" Line="68" Column="68" />
+      <File FileName="PassDataXamarinForms/MainPage.cs" Line="4" Column="4" />
+      <File FileName="PassDataXamarinForms/SecondPage.cs" Line="24" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
